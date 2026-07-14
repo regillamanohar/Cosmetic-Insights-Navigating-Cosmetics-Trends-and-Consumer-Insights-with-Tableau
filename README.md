@@ -23,34 +23,6 @@ Dashboard
 Tableau (Business Intelligence Software)
 Data Visualization
 Data Preprocessing
-Mentor
-No mentor assigned yet
-
-Team Members
-M
-Mohammed Aneef
-
-member
-
-B
-Bellamkonda Janardhan
-
-member
-
-L
-Lakshmibhavani Nunna
-
-member
-
-U
-U Venkata Mani Shankar Reddy
-
-member
-
-K
-Kameswara Sai Manohar Regilla
-
-teamLead
 
 Project Stats
  Epics
