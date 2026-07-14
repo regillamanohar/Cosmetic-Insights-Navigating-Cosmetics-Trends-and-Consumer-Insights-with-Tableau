@@ -54,10 +54,15 @@ Data Sources: Excel, CSV, or databases (e.g., SQL)
 Internet: Stable connection for Tableau Server / Tableau Cloud
 
 git project repo link : https://github.com/regillamanohar/Cosmetic-Insights-Navigating-Cosmetics-Trends-and-Consumer-Insights-with-Tableau
+
 github profile link : https://github.com/regillamanohar
+
 tableau public profile link : https://public.tableau.com/app/profile/kameswara.sai.manohar.regila/vizzes
+
 tableau dashboard link : https://public.tableau.com/views/Cosmetics_Insights/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 Project demo video link : https://drive.google.com/file/d/1UPzTBgMirKmYJJkbZs7pZ_og17X1A5y_/view?usp=drive_link
+
 Project App Demo Link : https://drive.google.com/file/d/1UPzTBgMirKmYJJkbZs7pZ_og17X1A5y_/view?usp=drive_link
  
 
